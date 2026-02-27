@@ -657,6 +657,8 @@ button:hover {
     transform: translateY(20px);
     opacity: 0;
     transition: all 0.5s ease 0.1s;
+    world-wrap: break-world;
+    overflow-wrap: breal-world;
 }
 
 .project-links {
